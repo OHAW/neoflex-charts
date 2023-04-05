@@ -11,6 +11,6 @@ spec:
     - port: {{ .Values.image.port }}
       targetPort: {{ .Values.image.port }}
       nodePort: {{ .Values.service.port }}
-      name: hello-pageд
+      name: hello-page
   selector:
     project: {{ .Values.meta.matchLabel }}
