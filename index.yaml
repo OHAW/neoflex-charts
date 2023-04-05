@@ -3,7 +3,7 @@ entries:
   java-app-teamcity:
   - apiVersion: v2
     appVersion: SNAPSHOT-0.0.1
-    created: "2023-04-06T01:25:51.269304+04:00"
+    created: "2023-04-06T01:34:28.871009+04:00"
     description: Neoflex practice.
     digest: 37f452f6220b16e320147d9688e1eae0bd09108cc0581a941b3d0c67617bc71d
     name: java-app-teamcity
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://github.com/OHAW/neoflex-task-deployment.git/java-app-teamcity-0.0.1.tgz
     version: 0.0.1
-generated: "2023-04-06T01:25:51.267581+04:00"
+generated: "2023-04-06T01:34:28.867401+04:00"
