@@ -3,5 +3,5 @@
  > helm install helm install neoflex-charts/java-app-teamcity --generate-name
 
  > kubectl get nodes -o wide
- 
- > INTERNAL-IP:NodePort
+
+ > http://INTERNAL-IP:NodePort
