@@ -9,6 +9,6 @@ entries:
     name: java-app-teamcity
     type: application
     urls:
-    - https://github.com/OHAW/neoflex-charts.git/java-app-teamcity-0.0.1.tgz
+    - https://ohaw.github.io/neoflex-charts/java-app-teamcity-0.0.1.tgz
     version: 0.0.1
 generated: "2023-04-06T01:34:28.867401+04:00"
