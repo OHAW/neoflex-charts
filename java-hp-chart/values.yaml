@@ -14,7 +14,7 @@ podLiveCycle:
   maxUnavailablePods: 25%
   maxSurge: 1
   typeStrategyDeployment: RollingUpdate
-  delayForProbes: 30
+  delayForProbes: 60
   periodForProbes: 45
 
 image:
